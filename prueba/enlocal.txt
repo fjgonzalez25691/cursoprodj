@@ -1,2 +1,8 @@
 desde el equipo local
+
 mis cambios en el mismo archivo desde local
+
+
+
+cambios editando en el mismo archivo
+
