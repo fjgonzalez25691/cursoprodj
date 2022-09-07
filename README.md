@@ -1,2 +1,2 @@
 # cursoprodj
-repositorio git de ejemplo para cursos profesional de django 
+repositorio git de desarrollo completo de gestión de empleados para curso profesional de django 
